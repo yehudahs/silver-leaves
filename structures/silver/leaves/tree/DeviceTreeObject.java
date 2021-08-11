@@ -1,4 +1,4 @@
-package tree;
+package silver.leaves.tree;
 
 
 import org.eclipse.core.runtime.IAdaptable;

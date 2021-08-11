@@ -1,13 +1,12 @@
-package tree;
+package silver.leaves.tree;
 
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-import regs.MemoryMapReg;
-import regs.Reg;
-import tree.Token.AttributeType;
-import tree.Token.TokenType;
+import silver.leaves.regs.*;
+import silver.leaves.tree.Token.AttributeType;
+import silver.leaves.tree.Token.TokenType;
 
 public class DeviceTree extends DeviceTreeObject{
 	

@@ -1,7 +1,7 @@
-package tree;
+package silver.leaves.tree;
 
-import tree.Token.AttributeType;
-import tree.Token.TokenType;
+import silver.leaves.tree.Token.AttributeType;
+import silver.leaves.tree.Token.TokenType;
 
 public class DeviceTreeAttribute extends DeviceTreeObject {
 	

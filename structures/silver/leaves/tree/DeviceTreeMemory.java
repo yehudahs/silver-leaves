@@ -1,9 +1,9 @@
-package tree;
+package silver.leaves.tree;
 
 
 import java.util.ArrayList;
 
-import regs.MemoryMapReg;
+import silver.leaves.regs.MemoryMapReg;
 
 public class DeviceTreeMemory {
 	private DeviceTreeRoot _root;

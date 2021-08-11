@@ -8,10 +8,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 
-import tree.DeviceTree;
-import tree.DeviceTreeObject;
-import tree.DeviceTreeRoot;
-import tree.Token;
+import silver.leaves.tree.DeviceTree;
+import silver.leaves.tree.DeviceTreeObject;
+import silver.leaves.tree.DeviceTreeRoot;
+import silver.leaves.tree.Token;
 
 
 public class parser {

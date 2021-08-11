@@ -1,4 +1,4 @@
-package regs;
+package silver.leaves.regs;
 
 public class MemoryMapReg extends Reg implements Comparable<MemoryMapReg>{
 

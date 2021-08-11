@@ -1,4 +1,4 @@
-package regs;
+package silver.leaves.regs;
 
 public class Reg {
 	

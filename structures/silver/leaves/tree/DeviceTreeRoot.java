@@ -1,4 +1,4 @@
-package tree;
+package silver.leaves.tree;
 
 
 public class DeviceTreeRoot extends DeviceTree {
